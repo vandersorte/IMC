@@ -1,7 +1,7 @@
 # calculadoradeIMC
 Calculadora de Índice de Massa Corpórea (IMC) 
 
-Uma calculadora de IMC, desenvolvida em Python.
+Uma calculadora de IMC, desenvolvida em JavaScript.
 
 O Índice de Massa Corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. Foi desenvolvido por Lambert Quételet no fim do século XIX.
 
