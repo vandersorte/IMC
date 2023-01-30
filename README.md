@@ -1,7 +1,7 @@
-# calculadoradeIMC
-Calculadora de Índice de Massa Corpórea (IMC) 
 
-Uma calculadora de IMC, desenvolvida em Python.
+Calculadora de Indice de Massa Corpórea(IMC)
+---
+Uma calculadora de IMC, desenvolvida em JavaScript.
 
 O Índice de Massa Corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. Foi desenvolvido por Lambert Quételet no fim do século XIX.
 
@@ -15,5 +15,22 @@ Para calcular o IMC basta dividir o peso (massa) do indivíduo em quilogramas, p
 
 Ex: peso / (altura * altura)
 
+Resultado            |Situação
+---|---
+Entre 17 e 18,49     |Abaixo do Peso
+Entre 18,50 e 24,99  |Peso Normal
+Entre 25 e 29,99     |Sobrepeso
+Entre 30 e 34,99     |Obesidade Grau I
+Entre 35 e 39,99     |Obesidade Grau II
+Acima de 40          |Obesidade Grau III
 
 
+
+
+CAPTURA DE TELA
+
+![Screenshot 2023-01-29 at 22-51-08 Seu IMC](https://user-images.githubusercontent.com/101753340/215374817-5c7ed377-7b4a-4509-b133-eb5acf8dfb1e.png)
+
+
+
+ (
