@@ -29,7 +29,8 @@ Acima de 40          |Obesidade Grau III
 
 **CAPTURA DE TELA**
 
-![Screenshot 2023-01-29 at 22-51-08 Seu IMC](https://user-images.githubusercontent.com/101753340/215374817-5c7ed377-7b4a-4509-b133-eb5acf8dfb1e.png)
+![Screenshot 2023-01-30 at 23-13-42 Seu IMC](https://user-images.githubusercontent.com/101753340/215642518-996ae559-888b-4f94-a178-57ca9e31c0b6.png)
+
 
 
 
