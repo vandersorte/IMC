@@ -42,4 +42,4 @@ function calcularIMC() {
   } else {
     return result.innerHTML = "<span style='background-color:#a39f96';>Informação inválida, tente novamente.</span>"
   }
-}
+} 
