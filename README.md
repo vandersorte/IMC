@@ -25,11 +25,12 @@ Entre 35 e 39,99     |Obesidade Grau II
 Acima de 40          |Obesidade Grau III
 
 
-
+##
 
 **CAPTURA DE TELA**
 
-![Screenshot 2023-01-30 at 23-13-42 Seu IMC](https://user-images.githubusercontent.com/101753340/215642518-996ae559-888b-4f94-a178-57ca9e31c0b6.png)
+![Screenshot 2023-04-22 at 12-37-10 Seu IMC](https://user-images.githubusercontent.com/101753340/233793716-45f2aa50-d2ad-4fd3-b5ac-f0edf1388e5f.png)
+
 
 
 
